@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 830764cd8c27b704e86132fd2313f0d4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: decoracion_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2785
+        width: 914
+        height: 1207
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_1
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3471
+        width: 294
+        height: 462
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_2
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 3340
+        width: 1666
+        height: 545
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_3
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2770
+        width: 251
+        height: 331
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_6
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2813
+        width: 274
+        height: 296
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_7
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2818
+        width: 272
+        height: 291
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_8
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2786
+        width: 208
+        height: 358
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2863
+        width: 241
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2415
+        width: 539
+        height: 44
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2413
+        width: 541
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_10
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2278
+        width: 308
+        height: 321
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_11
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2452
+        width: 513
+        height: 226
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_12
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2435
+        width: 543
+        height: 227
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1368
+        width: 337
+        height: 528
+      alignment: 9
+      pivot: {x: .540064812, y: .000339823571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1349
+        width: 381
+        height: 757
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_15
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 2078
+        width: 186
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_16
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2076
+        width: 202
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_17
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2072
+        width: 211
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoracion_18
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2062
+        width: 211
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

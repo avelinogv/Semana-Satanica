@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 00d52433647a57445a7d77c523aa4f44
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesegundo enemigos_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3250
+        width: 364
+        height: 846
+      alignment: 9
+      pivot: {x: .625023246, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3358
+        width: 448
+        height: 632
+      alignment: 9
+      pivot: {x: .717787087, y: .00397076178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_2
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3376
+        width: 327
+        height: 594
+      alignment: 9
+      pivot: {x: .580308855, y: -.00589472195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_3
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 3358
+        width: 556
+        height: 524
+      alignment: 9
+      pivot: {x: .38303864, y: -.000519031775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_4
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 3378
+        width: 508
+        height: 520
+      alignment: 9
+      pivot: {x: .278232366, y: -.00280526979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_5
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3344
+        width: 540
+        height: 586
+      alignment: 9
+      pivot: {x: .273297787, y: .00303259329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_6
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3294
+        width: 540
+        height: 652
+      alignment: 9
+      pivot: {x: .281648308, y: .0274770539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2470
+        width: 512
+        height: 720
+      alignment: 9
+      pivot: {x: .269386083, y: -.00542975543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3042
+        width: 360
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_9
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 2002
+        width: 1080
+        height: 1200
+      alignment: 9
+      pivot: {x: .462597668, y: .365351975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_10
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1978
+        width: 1076
+        height: 1200
+      alignment: 9
+      pivot: {x: .456201702, y: .354131073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2826
+        width: 400
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2626
+        width: 396
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 378
+        width: 1076
+        height: 1200
+      alignment: 9
+      pivot: {x: .462458551, y: .365351766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_14
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 490
+        width: 1080
+        height: 1200
+      alignment: 9
+      pivot: {x: .468831271, y: .365351856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesegundo enemigos_15
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 538
+        width: 1076
+        height: 1200
+      alignment: 9
+      pivot: {x: .462458402, y: .354131073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

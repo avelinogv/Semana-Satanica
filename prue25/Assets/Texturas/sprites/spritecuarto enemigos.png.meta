@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 4c7ff23f581db3443869ddeafc1fef96
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritecuarto enemigos_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2832
+        width: 1247
+        height: 1168
+      alignment: 9
+      pivot: {x: .807736695, y: .361662775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2849
+        width: 1343
+        height: 1151
+      alignment: 9
+      pivot: {x: .845894754, y: .383016348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2255
+        width: 562
+        height: 409
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 2215
+        width: 515
+        height: 448
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2172
+        width: 453
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_5
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 2194
+        width: 453
+        height: 417
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_6
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2153
+        width: 453
+        height: 436
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_7
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 2160
+        width: 453
+        height: 436
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1432
+        width: 558
+        height: 414
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1047
+        width: 790
+        height: 890
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_10
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1095
+        width: 725
+        height: 835
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_11
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1139
+        width: 695
+        height: 790
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_12
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1230
+        width: 595
+        height: 710
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_13
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 1699
+        width: 240
+        height: 245
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_14
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1384
+        width: 160
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 202
+        width: 482
+        height: 415
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_16
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 120
+        width: 610
+        height: 665
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 81
+        width: 735
+        height: 805
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_18
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 62
+        width: 750
+        height: 805
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritecuarto enemigos_19
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 72
+        width: 790
+        height: 860
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
